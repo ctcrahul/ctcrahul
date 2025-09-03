@@ -69,10 +69,5 @@
 </div>
 
 
-<div align="center">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
-  <br><br><br>
-</div>
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" alt="animated line"/>
+
 
