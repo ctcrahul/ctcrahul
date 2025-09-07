@@ -26,7 +26,10 @@
 <a href="https://codesandbox.com/rahulsingh51775177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rahulsingh51775177" height="30" width="40" /></a>
 <a href="https://kaggle.com/ctc7rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ctc7rahul" height="30" width="40" /></a>
 <a href="https://instagram.com/ctc_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctc_rahul" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/music-by-rsk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="music-by-rsk" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@Music-By-RSK" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="music-by-rsk" height="30" width="40" />
+</a>
+
 <a href="https://www.hackerrank.com/@rahulsingh517751" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@rahulsingh517751" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@rahulsingh51775177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulsingh51775177" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ctc_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ctc_rahul" height="30" width="40" /></a>
