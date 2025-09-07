@@ -22,7 +22,7 @@
 
 <p align="left">
   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulsingh51775177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulsingh51775177/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahulsingh51775177/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahulsingh51775177" height="30" width="40" /></a>
 <a href="https://codesandbox.com/rahulsingh51775177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="rahulsingh51775177" height="30" width="40" /></a>
 <a href="https://kaggle.com/ctc7rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ctc7rahul" height="30" width="40" /></a>
 <a href="https://instagram.com/ctc_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ctc_rahul" height="30" width="40" /></a>
