@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctcrahul&label=Profile%20views&color=0e75b6&style=flat" alt="ctcrahul" /> </p>
 
-- 🔭 I’m currently working on **Credit Fraud Detection**
+- 🔭 I’m currently Pursuing B.Tech(AIML) on **Apex**
 
 - 🌱 I’m currently learning **Machine Learning, OpenCV**
 
