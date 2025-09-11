@@ -31,7 +31,10 @@
 <a href="https://www.hackerearth.com/@rahulsingh51775177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@rahulsingh51775177" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ctc_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="ctc_rahul" height="30" width="40" /></a>
 <a href="https://codepen.io/https://codepen.io/settings/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/settings/profile" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/ctc_rahul" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/ctc_rahul" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/ctc_rahul" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="ctc_rahul" height="30" width="40" />
+</a>
+
 </p>
 
 
