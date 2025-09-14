@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ctcrahul&label=Profile%20views&color=0e75b6&style=flat" alt="ctcrahul" /> </p>
 
-<br>
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
-</br>
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
+</p>
+
+
 
 - 🔭 I’m currently Pursuing B.Tech(AIML) on **Apex University**
 
