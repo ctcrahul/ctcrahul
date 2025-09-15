@@ -70,13 +70,17 @@
 <br>
 
 
+<br>
 
+</br>
 
+<br>
 <div align="center">
   <br><br>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
   <br><br><br>
 </div>
+</br>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/ctcrahul">
