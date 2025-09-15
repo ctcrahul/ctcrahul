@@ -73,14 +73,7 @@
 
 <br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
 
-<!-- Thanks Section -->
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 
-<div align="center">
-  <img src="https://i.imgur.com/tzYKRfd.gif" alt="thanks gif">
-</div>
-
-<hr>
 
 
 
@@ -106,3 +99,18 @@
 
 </div>
 
+
+
+
+
+<br>
+<div>
+<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<div align="center">
+<img src="https://i.imgur.com/tzYKRfd.gif">
+</div>
+<hr>
+</div>
+</div>
+    </center>
+</body>
