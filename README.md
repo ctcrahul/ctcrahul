@@ -70,9 +70,7 @@
 <br>
 
 
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ctcrahul&" alt="ctcrahul" /></p>
-<br>
+
 
 
 <div align="center">
