@@ -61,38 +61,20 @@
 <br>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ctcrahul&show_icons=true&locale=en&layout=compact" alt="ctcrahul" /></p>
-<br>
-<br>
+</br>
+</br>
 
 
 <br>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ctcrahul&show_icons=true&locale=en" alt="ctcrahul" /></p>
-<br>
-
-
-<br>
-
 </br>
 
+
+ 
+
+
 <br>
-<div align="center">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
-  <br><br><br>
-</div>
 </br>
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/ctcrahul">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="70" width="210" alt="ctcrahul" />
-  </a>
-</p>
-
-<div align="center">
-  <br><br>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
-  <br><br><br>
-</div>
 
 
 
@@ -113,3 +95,19 @@
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </br>
+
+<br>
+</br>
+
+
+  <!-- Buy Me a Coffee (centered) -->
+  <a href="https://www.buymeacoffee.com/ctcrahul">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="70" width="210" alt="ctcrahul" />
+  </a>
+
+  <br><br>
+  <!-- Bottom gif -->
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" />
+
+</div>
+
