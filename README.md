@@ -65,10 +65,12 @@
 </br>
 
 
+<br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
+
 
 <!-- GitHub Stats (Right aligned) -->
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ctcrahul&show_icons=true&locale=en" alt="ctcrahul" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ctcrahul&show_icons=true&locale=en" alt="ctcrahul" />
 </p>
 
 <br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
