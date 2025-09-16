@@ -90,9 +90,11 @@
 
 <br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
 
+
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </br>
+
 
 <br>
 </br>
@@ -105,13 +107,16 @@
   </a>
 </p>
 
+<br>
+</br>
 
   <br><br>
   <!-- Bottom gif -->
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" /> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="70" /> 
 
 </div>
-
+<br>
+</br>
 
 # 🔭Actions
 
@@ -127,7 +132,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<br>
+</br>
 
 
 <br>
