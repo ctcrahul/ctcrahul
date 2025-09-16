@@ -20,11 +20,12 @@
 
 - 📫 How to reach me **rahulsingh51775177@gmail.com**
 
-
 <br>
-<h2 align="left">Connect with me:</h2>
+</br>
 
-<br>
+# Connect with me:
+
+
 
 
 <p align="left">
