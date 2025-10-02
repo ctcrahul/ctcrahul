@@ -99,7 +99,9 @@
 
 
 
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
 
@@ -116,7 +118,9 @@
 
 # I love connecting with different people so if you want to say hi, I'll be happy to meet you more! :)
 
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 <br>
 </br>
 
@@ -126,6 +130,10 @@
   <a href="https://www.buymeacoffee.com/ctcrahul">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="70" width="210" alt="ctcrahul" />
   </a>
+</p>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
 <br>
@@ -139,6 +147,10 @@
 <br>
 </br>
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 # 🔭Actions
 
 
@@ -150,6 +162,10 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
 </picture>
+
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <br>
 </br>
@@ -166,3 +182,6 @@
 </div>
     </center>
 </body>
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
