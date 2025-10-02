@@ -16,12 +16,19 @@
 </p>
 
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+	
+## 🔭 I’m currently Pursuing B.Tech(AIML) on **Apex University**
 
-- 🔭 I’m currently Pursuing B.Tech(AIML) on **Apex University**
+## 🌱 I’m currently learning **Machine Learning, OpenCV**
 
-- 🌱 I’m currently learning **Machine Learning, OpenCV**
+## 📫 How to reach me **rahulsingh51775177@gmail.com**
 
-- 📫 How to reach me **rahulsingh51775177@gmail.com**
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 <br>
 </br>
@@ -52,7 +59,9 @@
 <a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
-
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
 
 
 
