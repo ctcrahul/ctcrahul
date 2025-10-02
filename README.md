@@ -102,13 +102,6 @@
 
 
 
-<br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
-
-
-
-<br><br><br><br> <!-- Extra gap to separate stats from Thanks section -->
-
-
 <br>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="130"> 
 
