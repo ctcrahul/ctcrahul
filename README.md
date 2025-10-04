@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctcrahul&label=Profile%20views&color=0e75b6&style=flat" alt="ctcrahul" /> </p>
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
@@ -13,7 +14,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ctcrahul&label=Profile%20views&color=0e75b6&style=flat" alt="ctcrahul" /> </p>
+
 
 
 
