@@ -120,7 +120,7 @@
 
 <!-- Buy Me a Coffee (centered) -->
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ctcrahul">
+  <a href="https://buymeacoffee.com/rahulsingh1">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="70" width="210" alt="ctcrahul" />
   </a>
 </p>
